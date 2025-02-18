@@ -1,1 +1,1 @@
-
+console.log("Lobby initialized");
