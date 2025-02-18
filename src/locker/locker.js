@@ -1,1 +1,1 @@
-
+console.log("Locker initialized");
