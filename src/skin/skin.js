@@ -1,1 +1,1 @@
-
+console.log("Skins initialized");
