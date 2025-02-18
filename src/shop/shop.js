@@ -1,1 +1,1 @@
-
+console.log("Shop initialized");
